@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da26dbfabc3312245b9e0d66136bdc6f
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 64
+  forceTextureCase: 3
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  customCharacters: qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM,./;'[]1234567890-=_+:"{}<>?`~!@#$%^&*()
+  fontRenderingMode: 0
+  userData: 

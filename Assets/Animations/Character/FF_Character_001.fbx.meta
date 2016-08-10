@@ -1,0 +1,1732 @@
+fileFormatVersion: 2
+guid: 65a87adf550d02e49a4e328cabc7c5e9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: be_l_toe
+    100002: be_r_toe
+    100004: be_spD01
+    100006: bn_btm_l_eye
+    100008: bn_btm_m_eye
+    100010: bn_btm_r_eye
+    100012: bn_chest
+    100014: bn_eye
+    100016: bn_head
+    100018: bn_l_arm
+    100020: bn_l_BallFoot
+    100022: bn_l_elbow
+    100024: bn_l_elbPrsv01
+    100026: bn_l_elbPrsv02
+    100028: bn_l_fist
+    100030: bn_l_FootAnkle
+    100032: bn_l_knee01
+    100034: bn_l_knee02
+    100036: bn_l_LegAnkle
+    100038: bn_l_shoulder
+    100040: bn_l_shoulderEnd
+    100042: bn_l_thigh
+    100044: bn_l_wrist
+    100046: bn_r_arm
+    100048: bn_r_BallFoot
+    100050: bn_r_elbow
+    100052: bn_r_elbPrsv01
+    100054: bn_r_elbPrsv02
+    100056: bn_r_fist
+    100058: bn_r_FootAnkle
+    100060: bn_r_knee01
+    100062: bn_r_knee02
+    100064: bn_r_LegAnkle
+    100066: bn_r_shoulder
+    100068: bn_r_shoulderEnd
+    100070: bn_r_thigh
+    100072: bn_r_wrist
+    100074: bn_spA01
+    100076: bn_spB01
+    100078: bn_spC01
+    100080: bn_top_l_eye
+    100082: bn_top_m_eye
+    100084: bn_top_r_eye
+    100086: charNode01
+    100088: charScale01
+    100090: controlObjects01
+    100092: FlubFighter_001
+    100094: grp_bn_l_elbPrsv01
+    100096: grp_cc_chest
+    100098: grp_jc_l_foot
+    100100: grp_jc_r_foot
+    100102: grpbn_r_elbPrsv01
+    100104: ik_l_arm
+    100106: ik_l_rp_leg
+    100108: ik_r_arm
+    100110: ik_r_rp_leg
+    100112: IKs01
+    100114: joints01
+    100116: left
+    100118: spIK_sp01
+    100120: //RootNode
+    100122: WorldNode
+    400000: be_l_toe
+    400002: be_r_toe
+    400004: be_spD01
+    400006: bn_btm_l_eye
+    400008: bn_btm_m_eye
+    400010: bn_btm_r_eye
+    400012: bn_chest
+    400014: bn_eye
+    400016: bn_head
+    400018: bn_l_arm
+    400020: bn_l_BallFoot
+    400022: bn_l_elbow
+    400024: bn_l_elbPrsv01
+    400026: bn_l_elbPrsv02
+    400028: bn_l_fist
+    400030: bn_l_FootAnkle
+    400032: bn_l_knee01
+    400034: bn_l_knee02
+    400036: bn_l_LegAnkle
+    400038: bn_l_shoulder
+    400040: bn_l_shoulderEnd
+    400042: bn_l_thigh
+    400044: bn_l_wrist
+    400046: bn_r_arm
+    400048: bn_r_BallFoot
+    400050: bn_r_elbow
+    400052: bn_r_elbPrsv01
+    400054: bn_r_elbPrsv02
+    400056: bn_r_fist
+    400058: bn_r_FootAnkle
+    400060: bn_r_knee01
+    400062: bn_r_knee02
+    400064: bn_r_LegAnkle
+    400066: bn_r_shoulder
+    400068: bn_r_shoulderEnd
+    400070: bn_r_thigh
+    400072: bn_r_wrist
+    400074: bn_spA01
+    400076: bn_spB01
+    400078: bn_spC01
+    400080: bn_top_l_eye
+    400082: bn_top_m_eye
+    400084: bn_top_r_eye
+    400086: charNode01
+    400088: charScale01
+    400090: controlObjects01
+    400092: FlubFighter_001
+    400094: grp_bn_l_elbPrsv01
+    400096: grp_cc_chest
+    400098: grp_jc_l_foot
+    400100: grp_jc_r_foot
+    400102: grpbn_r_elbPrsv01
+    400104: ik_l_arm
+    400106: ik_l_rp_leg
+    400108: ik_r_arm
+    400110: ik_r_rp_leg
+    400112: IKs01
+    400114: joints01
+    400116: left
+    400118: spIK_sp01
+    400120: //RootNode
+    400122: WorldNode
+    4300000: FlubFighter_001
+    7400000: Idle 001
+    7400002: Run 001
+    7400004: Jump 001
+    7400006: AirIdle 001
+    7400008: ChargingPunch 001
+    7400010: H. Punch Up 001
+    7400012: H. Punch UpForward 001
+    7400014: H. Punch Forward 001
+    7400016: H. Punch ForwardDown 001
+    7400018: H. Punch Down 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: FlubFighter_001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle 001
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 14
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump 001
+      takeName: Take 001
+      firstFrame: 137
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AirIdle 001
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 224
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ChargingPunch 001
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 372
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 0
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: H. Punch Up 001
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 405
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PunchEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: H. Punch UpForward 001
+      takeName: Take 001
+      firstFrame: 406
+      lastFrame: 411
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PunchEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: H. Punch Forward 001
+      takeName: Take 001
+      firstFrame: 412
+      lastFrame: 417
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PunchEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: H. Punch ForwardDown 001
+      takeName: Take 001
+      firstFrame: 418
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PunchEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: H. Punch Down 001
+      takeName: Take 001
+      firstFrame: 424
+      lastFrame: 429
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PunchEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: charNode01
+        weight: 1
+      - path: charNode01/charScale01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_cc_chest
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_l_foot
+        weight: 1
+      - path: charNode01/charScale01/controlObjects01/grp_jc_r_foot
+        weight: 1
+      - path: charNode01/charScale01/IKs01
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_l_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_arm
+        weight: 1
+      - path: charNode01/charScale01/IKs01/ik_r_rp_leg
+        weight: 1
+      - path: charNode01/charScale01/IKs01/spIK_sp01
+        weight: 1
+      - path: charNode01/charScale01/joints01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_btm_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_l_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_m_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_head/bn_top_r_eye
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_l_shoulder/bn_l_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_chest/bn_r_shoulder/bn_r_shoulderEnd
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_arm/bn_l_elbow/bn_l_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_FootAnkle/bn_l_BallFoot/be_l_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_l_thigh/bn_l_knee01/bn_l_knee02/bn_l_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_arm/bn_r_elbow/bn_r_wrist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_fist
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_FootAnkle/bn_r_BallFoot/be_r_toe
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_r_thigh/bn_r_knee01/bn_r_knee02/bn_r_LegAnkle
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01
+        weight: 1
+      - path: charNode01/charScale01/joints01/bn_spA01/bn_spB01/bn_spC01/be_spD01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grp_bn_l_elbPrsv01/bn_l_elbPrsv01/bn_l_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01
+        weight: 1
+      - path: charNode01/charScale01/joints01/grpbn_r_elbPrsv01/bn_r_elbPrsv01/bn_r_elbPrsv02
+        weight: 1
+      - path: charNode01/charScale01/WorldNode
+        weight: 1
+      - path: FlubFighter_001
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

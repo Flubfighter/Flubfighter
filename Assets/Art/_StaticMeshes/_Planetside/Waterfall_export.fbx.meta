@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 9dd7058ca19feda40b40fb32352e8716
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: _UNKNOWN_REF_NODE_fosterParent1
+    100002: curve1
+    100004: extrudedSurface1
+    100006: extrudedSurface2
+    100008: extrudedSurface3
+    100010: nurbsToPoly1
+    100012: nurbsToPoly1 1
+    100014: nurbsToPoly10
+    100016: nurbsToPoly11
+    100018: nurbsToPoly12
+    100020: nurbsToPoly13
+    100022: nurbsToPoly16
+    100024: nurbsToPoly17
+    100026: nurbsToPoly18
+    100028: nurbsToPoly19
+    100030: nurbsToPoly2
+    100032: nurbsToPoly20
+    100034: nurbsToPoly21
+    100036: nurbsToPoly3
+    100038: nurbsToPoly4
+    100040: nurbsToPoly5
+    100042: nurbsToPoly6
+    100044: nurbsToPoly7
+    100046: nurbsToPoly8
+    100048: nurbsToPoly9
+    100050: polySurface1
+    100052: transform1
+    100054: transform10
+    100056: transform11
+    100058: transform12
+    100060: transform13
+    100062: transform14
+    100064: transform15
+    100066: transform16
+    100068: transform17
+    100070: transform18
+    100072: transform19
+    100074: transform2
+    100076: transform20
+    100078: transform21
+    100080: transform3
+    100082: transform4
+    100084: transform5
+    100086: transform6
+    100088: transform7
+    100090: transform8
+    100092: transform9
+    100094: //RootNode
+    400000: _UNKNOWN_REF_NODE_fosterParent1
+    400002: curve1
+    400004: extrudedSurface1
+    400006: extrudedSurface2
+    400008: extrudedSurface3
+    400010: nurbsToPoly1
+    400012: nurbsToPoly1 1
+    400014: nurbsToPoly10
+    400016: nurbsToPoly11
+    400018: nurbsToPoly12
+    400020: nurbsToPoly13
+    400022: nurbsToPoly16
+    400024: nurbsToPoly17
+    400026: nurbsToPoly18
+    400028: nurbsToPoly19
+    400030: nurbsToPoly2
+    400032: nurbsToPoly20
+    400034: nurbsToPoly21
+    400036: nurbsToPoly3
+    400038: nurbsToPoly4
+    400040: nurbsToPoly5
+    400042: nurbsToPoly6
+    400044: nurbsToPoly7
+    400046: nurbsToPoly8
+    400048: nurbsToPoly9
+    400050: polySurface1
+    400052: transform1
+    400054: transform10
+    400056: transform11
+    400058: transform12
+    400060: transform13
+    400062: transform14
+    400064: transform15
+    400066: transform16
+    400068: transform17
+    400070: transform18
+    400072: transform19
+    400074: transform2
+    400076: transform20
+    400078: transform21
+    400080: transform3
+    400082: transform4
+    400084: transform5
+    400086: transform6
+    400088: transform7
+    400090: transform8
+    400092: transform9
+    400094: //RootNode
+    2300000: curve1
+    3300000: curve1
+    4300000: curve1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

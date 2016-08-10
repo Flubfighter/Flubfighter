@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: a79625b2ac82f5e45adb62136542dd84
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Brace Bottom Left
+    100002: Brace Bottom Right
+    100004: Brace top Left
+    100006: Brace Top Right
+    100008: Conveyor Mid Left
+    100010: Conveyor Mid Right
+    100012: Coveyor Ramp Mid Left
+    100014: Coveyor Ramp MidRight
+    100016: Junk Pile Bottom Left
+    100018: Junk Pile Bottom Mid
+    100020: Junk Pile Bottom Right
+    100022: //RootNode
+    100024: Walkway Top Left
+    100026: Walkway Top Right
+    400000: Brace Bottom Left
+    400002: Brace Bottom Right
+    400004: Brace top Left
+    400006: Brace Top Right
+    400008: Conveyor Mid Left
+    400010: Conveyor Mid Right
+    400012: Coveyor Ramp Mid Left
+    400014: Coveyor Ramp MidRight
+    400016: Junk Pile Bottom Left
+    400018: Junk Pile Bottom Mid
+    400020: Junk Pile Bottom Right
+    400022: //RootNode
+    400024: Walkway Top Left
+    400026: Walkway Top Right
+    2300000: Brace Bottom Left
+    2300002: Brace Bottom Right
+    2300004: Brace top Left
+    2300006: Brace Top Right
+    2300008: Conveyor Mid Left
+    2300010: Conveyor Mid Right
+    2300012: Coveyor Ramp Mid Left
+    2300014: Coveyor Ramp MidRight
+    2300016: Junk Pile Bottom Left
+    2300018: Junk Pile Bottom Mid
+    2300020: Junk Pile Bottom Right
+    2300022: Walkway Top Left
+    2300024: Walkway Top Right
+    3300000: Brace Bottom Left
+    3300002: Brace Bottom Right
+    3300004: Brace top Left
+    3300006: Brace Top Right
+    3300008: Conveyor Mid Left
+    3300010: Conveyor Mid Right
+    3300012: Coveyor Ramp Mid Left
+    3300014: Coveyor Ramp MidRight
+    3300016: Junk Pile Bottom Left
+    3300018: Junk Pile Bottom Mid
+    3300020: Junk Pile Bottom Right
+    3300022: Walkway Top Left
+    3300024: Walkway Top Right
+    4300000: Junk Pile Bottom Left
+    4300002: Junk Pile Bottom Right
+    4300004: Junk Pile Bottom Mid
+    4300006: Conveyor Mid Left
+    4300008: Conveyor Mid Right
+    4300010: Coveyor Ramp Mid Left
+    4300012: Coveyor Ramp MidRight
+    4300014: Brace Bottom Left
+    4300016: Brace Bottom Right
+    4300018: Brace top Left
+    4300020: Brace Top Right
+    4300022: Walkway Top Left
+    4300024: Walkway Top Right
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
