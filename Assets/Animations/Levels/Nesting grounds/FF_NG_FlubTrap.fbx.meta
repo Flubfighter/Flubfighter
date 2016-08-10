@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 2579bbc0a6698054396d18d6b986963b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: flubSnapTrap_Unwrapped_4_no_Scaling:joint1
+    100004: flubSnapTrap_Unwrapped_4_no_Scaling:joint10
+    100006: flubSnapTrap_Unwrapped_4_no_Scaling:joint11
+    100008: flubSnapTrap_Unwrapped_4_no_Scaling:joint12
+    100010: flubSnapTrap_Unwrapped_4_no_Scaling:joint13
+    100012: flubSnapTrap_Unwrapped_4_no_Scaling:joint14
+    100014: flubSnapTrap_Unwrapped_4_no_Scaling:joint15
+    100016: flubSnapTrap_Unwrapped_4_no_Scaling:joint16
+    100018: flubSnapTrap_Unwrapped_4_no_Scaling:joint17
+    100020: flubSnapTrap_Unwrapped_4_no_Scaling:joint18
+    100022: flubSnapTrap_Unwrapped_4_no_Scaling:joint19
+    100024: flubSnapTrap_Unwrapped_4_no_Scaling:joint2
+    100026: flubSnapTrap_Unwrapped_4_no_Scaling:joint20
+    100028: flubSnapTrap_Unwrapped_4_no_Scaling:joint21
+    100030: flubSnapTrap_Unwrapped_4_no_Scaling:joint22
+    100032: flubSnapTrap_Unwrapped_4_no_Scaling:joint23
+    100034: flubSnapTrap_Unwrapped_4_no_Scaling:joint24
+    100036: flubSnapTrap_Unwrapped_4_no_Scaling:joint25
+    100038: flubSnapTrap_Unwrapped_4_no_Scaling:joint26
+    100040: flubSnapTrap_Unwrapped_4_no_Scaling:joint27
+    100042: flubSnapTrap_Unwrapped_4_no_Scaling:joint3
+    100044: flubSnapTrap_Unwrapped_4_no_Scaling:joint4
+    100046: flubSnapTrap_Unwrapped_4_no_Scaling:joint5
+    100048: flubSnapTrap_Unwrapped_4_no_Scaling:joint6
+    100050: flubSnapTrap_Unwrapped_4_no_Scaling:joint7
+    100052: flubSnapTrap_Unwrapped_4_no_Scaling:joint8
+    100054: flubSnapTrap_Unwrapped_4_no_Scaling:joint9
+    100056: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle1
+    100058: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle12
+    100060: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle13
+    100062: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle2
+    100064: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle6
+    100066: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle7
+    100068: flubSnapTrap_Unwrapped_4_no_Scaling:pPlane4
+    400000: //RootNode
+    400002: flubSnapTrap_Unwrapped_4_no_Scaling:joint1
+    400004: flubSnapTrap_Unwrapped_4_no_Scaling:joint10
+    400006: flubSnapTrap_Unwrapped_4_no_Scaling:joint11
+    400008: flubSnapTrap_Unwrapped_4_no_Scaling:joint12
+    400010: flubSnapTrap_Unwrapped_4_no_Scaling:joint13
+    400012: flubSnapTrap_Unwrapped_4_no_Scaling:joint14
+    400014: flubSnapTrap_Unwrapped_4_no_Scaling:joint15
+    400016: flubSnapTrap_Unwrapped_4_no_Scaling:joint16
+    400018: flubSnapTrap_Unwrapped_4_no_Scaling:joint17
+    400020: flubSnapTrap_Unwrapped_4_no_Scaling:joint18
+    400022: flubSnapTrap_Unwrapped_4_no_Scaling:joint19
+    400024: flubSnapTrap_Unwrapped_4_no_Scaling:joint2
+    400026: flubSnapTrap_Unwrapped_4_no_Scaling:joint20
+    400028: flubSnapTrap_Unwrapped_4_no_Scaling:joint21
+    400030: flubSnapTrap_Unwrapped_4_no_Scaling:joint22
+    400032: flubSnapTrap_Unwrapped_4_no_Scaling:joint23
+    400034: flubSnapTrap_Unwrapped_4_no_Scaling:joint24
+    400036: flubSnapTrap_Unwrapped_4_no_Scaling:joint25
+    400038: flubSnapTrap_Unwrapped_4_no_Scaling:joint26
+    400040: flubSnapTrap_Unwrapped_4_no_Scaling:joint27
+    400042: flubSnapTrap_Unwrapped_4_no_Scaling:joint3
+    400044: flubSnapTrap_Unwrapped_4_no_Scaling:joint4
+    400046: flubSnapTrap_Unwrapped_4_no_Scaling:joint5
+    400048: flubSnapTrap_Unwrapped_4_no_Scaling:joint6
+    400050: flubSnapTrap_Unwrapped_4_no_Scaling:joint7
+    400052: flubSnapTrap_Unwrapped_4_no_Scaling:joint8
+    400054: flubSnapTrap_Unwrapped_4_no_Scaling:joint9
+    400056: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle1
+    400058: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle12
+    400060: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle13
+    400062: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle2
+    400064: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle6
+    400066: flubSnapTrap_Unwrapped_4_no_Scaling:nurbsCircle7
+    400068: flubSnapTrap_Unwrapped_4_no_Scaling:pPlane4
+    4300000: flubSnapTrap_Unwrapped_4_no_Scaling:pPlane4
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: flubSnapTrap_Unwrapped_4_no_Scaling:pPlane4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

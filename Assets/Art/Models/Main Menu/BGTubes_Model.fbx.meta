@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: fbfa1e3e868d2694aa9a09f28a176a83
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Loft001
+    100004: Loft002
+    100006: Loft003
+    100008: Loft004
+    100010: Loft005
+    100012: Loft006
+    100014: Loft007
+    100016: Loft008
+    100018: Loft009
+    100020: Loft010
+    100022: Loft011
+    100024: Loft012
+    100026: Loft013
+    100028: Loft014
+    100030: Loft015
+    100032: Loft018
+    100034: Loft019
+    100036: Loft020
+    100038: Loft021
+    100040: Loft022
+    100042: Loft023
+    100044: transform1
+    100046: transform10
+    100048: transform11
+    100050: transform12
+    100052: transform13
+    100054: transform14
+    100056: transform15
+    100058: transform16
+    100060: transform17
+    100062: transform18
+    100064: transform19
+    100066: transform2
+    100068: transform20
+    100070: transform3
+    100072: transform4
+    100074: transform5
+    100076: transform6
+    100078: transform7
+    100080: transform8
+    100082: transform9
+    400000: //RootNode
+    400002: Loft001
+    400004: Loft002
+    400006: Loft003
+    400008: Loft004
+    400010: Loft005
+    400012: Loft006
+    400014: Loft007
+    400016: Loft008
+    400018: Loft009
+    400020: Loft010
+    400022: Loft011
+    400024: Loft012
+    400026: Loft013
+    400028: Loft014
+    400030: Loft015
+    400032: Loft018
+    400034: Loft019
+    400036: Loft020
+    400038: Loft021
+    400040: Loft022
+    400042: Loft023
+    400044: transform1
+    400046: transform10
+    400048: transform11
+    400050: transform12
+    400052: transform13
+    400054: transform14
+    400056: transform15
+    400058: transform16
+    400060: transform17
+    400062: transform18
+    400064: transform19
+    400066: transform2
+    400068: transform20
+    400070: transform3
+    400072: transform4
+    400074: transform5
+    400076: transform6
+    400078: transform7
+    400080: transform8
+    400082: transform9
+    2300000: Loft023
+    3300000: Loft023
+    4300000: Loft023
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
