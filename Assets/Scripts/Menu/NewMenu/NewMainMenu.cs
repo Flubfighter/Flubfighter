@@ -46,13 +46,13 @@ public class NewMainMenu : MonoBehaviour
 		private WindowMode windowMode;
 		private Resolution resolution;
 		private int qualityLevel;
-		private int volume;
+		private float volume;
 
 		public WindowMode WindowMode { get { return windowMode; } }
 		public Resolution Resolution { get { return resolution; } }
 		public int ResolutionIndex { get { return resolutions.IndexOf(resolution); } }
 		public int QualityLevel { get { return qualityLevel; } }
-		public int Volume { get { return volume; } }
+		public float Volume { get { return volume; } }
 		public bool IsDirty { get; private set; }
 
 		public Settings()
@@ -71,8 +71,7 @@ public class NewMainMenu : MonoBehaviour
 		{
 			if (this.volume != volume)
 				IsDirty = true;
-			this.volume = Mathf.RoundToInt(Mathf.Clamp01(volume));
-
+			this.volume = Mathf.Clamp01(volume);
 		}
 
 		public void SetQualityLevel(int qualityLevel)
@@ -99,13 +98,17 @@ public class NewMainMenu : MonoBehaviour
 			}
 			resolutions = resolutions.OrderBy(obj => obj.width).ThenBy(obj => obj.height).ToList();
 			qualityLevel = QualitySettings.GetQualityLevel();
-			volume = PlayerPrefs.GetInt("Volume", 10);
+			volume = PlayerPrefs.GetFloat("Volume", 1f);
+			AudioListener.volume = volume;
+//			Debug.Log (string.Format ("Volume {0} = setting of {1}", volume, AudioListener.volume));
 			IsDirty = false;
 		}
 
 		public void Apply()
 		{
-			PlayerPrefs.SetInt("Volume", volume); // TODO: Actually apply volume settings to listeners or w/e
+			PlayerPrefs.SetFloat("Volume", volume);
+			AudioListener.volume = volume;
+//			Debug.Log (string.Format ("Volume {0} = setting of {1}", volume, AudioListener.volume));
 			Screen.SetResolution(resolution.width, resolution.height, windowMode == WindowMode.Fullscreen);
 			QualitySettings.SetQualityLevel(qualityLevel, true);
 			IsDirty = false;
@@ -124,6 +127,7 @@ public class NewMainMenu : MonoBehaviour
 	[SerializeField] private Text windowLabel;
 	[SerializeField] private Text resolutionLabel;
 	[SerializeField] private Text graphicsLabel;
+	[SerializeField] private Slider volumeSlider;
 	[Header("Game Settings")]
 	[SerializeField] private Text gametypeLabel;
 	[SerializeField] private Text durationLabel;
@@ -196,6 +200,7 @@ public class NewMainMenu : MonoBehaviour
 		windowLabel.text = changedSettings.WindowMode.ToString();
 		graphicsLabel.text = QualitySettings.names[changedSettings.QualityLevel];
 		resolutionLabel.text = changedSettings.Resolution.ToString();
+		volumeSlider.value = changedSettings.Volume * 10f;
 
 		// Game Settings
 		gametypeLabel.text = Assets.Gametypes[gametype].name;
@@ -384,13 +389,14 @@ public class NewMainMenu : MonoBehaviour
 	#region Options
 	public void SetVolumeSlider(Slider slider)
 	{
-		slider.value = PlayerPrefs.GetInt("Volume", 10);
+		slider.value = PlayerPrefs.GetFloat("Volume", 1f) * 10f;
 	}
 
 	public void SliderVolume(float volume)
 	{
-		changedSettings.SetVolume(volume);
-		// TODO: Set volume
+		Debug.Log ("Slider value = " + volume);
+		changedSettings.SetVolume(volume / 10f);
+		AudioListener.volume = volume / 10f;
 	}
 
 	public void ButtonWindowNext()
