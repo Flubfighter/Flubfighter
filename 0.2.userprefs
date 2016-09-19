@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game System\GameGUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Character\CharacterMovement.cs" Line="51" Column="2" />
+      <File FileName="Assets\Scripts\Character\Character.cs" Line="86" Column="65" />
+      <File FileName="Assets\Scripts\Game System\GameGUI.cs" Line="182" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
