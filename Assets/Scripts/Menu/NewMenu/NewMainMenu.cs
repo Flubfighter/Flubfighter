@@ -394,7 +394,7 @@ public class NewMainMenu : MonoBehaviour
 
 	public void SliderVolume(float volume)
 	{
-		Debug.Log ("Slider value = " + volume);
+//		Debug.Log ("Slider value = " + volume);
 		changedSettings.SetVolume(volume / 10f);
 		AudioListener.volume = volume / 10f;
 	}

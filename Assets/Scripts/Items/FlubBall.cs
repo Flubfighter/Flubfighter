@@ -21,7 +21,8 @@ public class FlubBall : Item {
     protected override void Awake()
     {
 		base.Awake ();
-        Destroy(gameObject, lifespan);
+		Destroy(gameObject, lifespan);
+		collider2D.isTrigger = false;
     }
 
     private void Start()
